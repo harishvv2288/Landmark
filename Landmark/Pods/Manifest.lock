@@ -1,0 +1,16 @@
+PODS:
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 107b816503f07775ff56608853ccf3026f50516e
+
+COCOAPODS: 1.6.1
